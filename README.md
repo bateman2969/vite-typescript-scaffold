@@ -5,7 +5,7 @@
 
 Example TypeScript package ready to be published and used. Pure JavaScript/TypeScript libraries. Zero framework overhead. 2026.
 
-## Init
+## run it once
 
 ```bash
 ./init.sh <project_name> <author> <email>
@@ -13,13 +13,13 @@ Example TypeScript package ready to be published and used. Pure JavaScript/TypeS
 
 Replaces placeholders and self-deletes.
 
-## Setup
+## setup
 
 ```bash
 pnpm install
 ```
 
-## Scripts
+## scripts
 
 - `pnpm dev` - Development mode
 - `pnpm build` - Build library (CJS + ESM + types)
